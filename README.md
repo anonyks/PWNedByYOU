@@ -1,4 +1,4 @@
-# PWNedByYOU
+# PWNedByYOU ~ #Only4ThoseWhoKnows
 
 PWNedByYOU is a double-encoded HTML defacement script that offers a unique and adaptable approach to web page defacement. By prompting the user for a name, it allows the defacement message to be personalized without the need to create multiple scripts for each instance. The tool utilizes double encoding to help bypass restrictions based on HTML codes and keywords, making it versatile and effective for various uses.
 
